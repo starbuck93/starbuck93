@@ -1,6 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starbuck93&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=starbuck93&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starbuck93&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=starbuck93&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **starbuck93/starbuck93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+blog🌱: https://blog.starbuckstech.com
